@@ -2,6 +2,9 @@
 
 Full-stack TypeScript application for revenue performance analysis and insights.
 
+<img width="1470" height="836" alt="image" src="https://github.com/user-attachments/assets/2e557f35-43ab-4c0b-821d-ae6ea6f60e2d" />
+<img width="1470" height="820" alt="image" src="https://github.com/user-attachments/assets/5cc803df-a000-426b-9064-4fff695f7671" />
+
 ## 🎯 Project Overview
 
 A single-page Revenue Intelligence Console that helps CROs answer:
